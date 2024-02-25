@@ -1,0 +1,44 @@
+.search-icon {
+    width: 40px;
+    height: 40px;
+    padding-left: 20px;
+    color: rgba(91, 110, 187, 0.743);
+  }
+  
+  .search {
+    display: flex;
+    width: 200%;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    border: 2px solid rgba(91, 110, 187, 0.743);
+  }
+  
+  .search-text {
+    width: 50%;
+    padding: 15px;
+    font-size: 20px;
+    color: rgba(91, 110, 187, 0.743);
+    outline: none;
+    border: 0px;
+    font-weight: 500;
+  }
+
+  .sort {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 30%;
+    background-color: #fff;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid; /* Adjust as needed */
+    border-color: #aaa5a5 /* Add your color here */;
+    border-radius: 10px; /* Adjust as needed */
+    box-shadow: 10px;
+}
+
+.icon {
+    width: 30px; 
+    height: 30px;
+  }
