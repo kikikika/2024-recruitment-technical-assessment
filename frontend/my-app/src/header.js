@@ -31,7 +31,7 @@ const Header = () => {
             style={{ 
                 textAlign: 'left', 
                 fontWeight: 'bold', 
-                color: clicked ?  '#ff0000':'#007fff',
+                color: clicked ?  '#ff0000':'rgb(18 121 242)',
                 fontSize: '90px', 
                 paddingBottom: '10px',
                 cursor: 'pointer',
